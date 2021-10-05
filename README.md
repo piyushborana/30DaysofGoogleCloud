@@ -2,9 +2,9 @@
 
 * Track 1: Cloud Engineering Track
 
-- [ ] Getting Started: Create and Manage Cloud Resources
-- [ ] Perform Foundational Infrastructure Tasks in Google Cloud
-- [ ] Setup and Configure a cloud environment in Google Cloud
+- [ x] Getting Started: Create and Manage Cloud Resources
+- [ x] Perform Foundational Infrastructure Tasks in Google Cloud
+- [ x] Setup and Configure a cloud environment in Google Cloud
 - [ ] Deploy and Manage Cloud environments with Google Cloud
 - [ ] Build and Secure Networks in Google Cloud
 - [ ] Deploy to Kubernetes in Google Cloud
