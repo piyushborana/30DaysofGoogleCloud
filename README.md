@@ -11,7 +11,7 @@
 
 * Track 2: Data Science and Machine Learning Track
 
-- [ ] Getting Started: Create and Manage Cloud Resources
+- [x] Getting Started: Create and Manage Cloud Resources
 - [ ] Perform Foundational Data, ML and AI Tasks in Google Cloud
 - [ ] Insights from Data with BigQuery
 - [ ] Engineer data in Google Cloud
