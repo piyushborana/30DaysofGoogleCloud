@@ -7,7 +7,7 @@
 - [x] Setup and Configure a cloud environment in Google Cloud
 - [x] Deploy and Manage Cloud environments with Google Cloud
 - [x] Build and Secure Networks in Google Cloud
-- [ ] Deploy to Kubernetes in Google Cloud
+- [x] Deploy to Kubernetes in Google Cloud
 
 * Track 2: Data Science and Machine Learning Track
 
