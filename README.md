@@ -16,4 +16,4 @@
 - [x] Insights from Data with BigQuery
 - [ ] Engineer data in Google Cloud
 - [ ] Integrate with Machine Learning APIs
-- [ ] Explore Machine Learning Models with Explainable AI
+- [x] Explore Machine Learning Models with Explainable AI
