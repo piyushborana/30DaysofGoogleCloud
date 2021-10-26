@@ -15,5 +15,5 @@
 - [ ] Perform Foundational Data, ML and AI Tasks in Google Cloud
 - [x] Insights from Data with BigQuery
 - [ ] Engineer data in Google Cloud
-- [ ] Integrate with Machine Learning APIs
+- [x] Integrate with Machine Learning APIs
 - [x] Explore Machine Learning Models with Explainable AI
