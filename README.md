@@ -14,6 +14,6 @@
 - [x] Getting Started: Create and Manage Cloud Resources
 - [x] Perform Foundational Data, ML and AI Tasks in Google Cloud
 - [x] Insights from Data with BigQuery
-- [ ] Engineer data in Google Cloud
+- [x] Engineer data in Google Cloud
 - [x] Integrate with Machine Learning APIs
 - [x] Explore Machine Learning Models with Explainable AI
